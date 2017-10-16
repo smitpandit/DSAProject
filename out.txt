@@ -1,0 +1,1 @@
+{"conlist":[{"message":"trial 3","username":"smit","time":1508103024912,"optype":"tweet","sent":"no"}],"eventTable":[[0,0,0,0,0,0],[0,1,1,1,1,1],[0,0,0,0,0,0],[0,0,0,0,0,0],[0,0,0,0,0,0],[0,0,0,0,0,0]],"processId":1}
